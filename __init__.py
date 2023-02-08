@@ -4,7 +4,7 @@ import base64
 
 
 #Tutorial base  https://code.tutsplus.com/tutorials/base64-encoding-and-decoding-using-python--cms-2
-
+https://code.tutsplus.com/tutorials/base64-encoding-and-decoding-using-python--cms-25588
 
 text = b"""
 
